@@ -1,3 +1,4 @@
+# Chapter 1
 * `Actuators` - It is a component of a machine that is responsible for moving and controlling a mechanism or system
 * `Fog`
 * `EDA (Event-driven Architectures)`

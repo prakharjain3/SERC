@@ -29,4 +29,19 @@ Learning is a process of acquiring knowledge or skill through experience.
 
 ### 1.3 Research Questions
 
+* RQ1 How to perform effective and efficient proactive adaptation using machine learning techniques?
+  Tackles challenge one Reactive nature of adaptation
+* RQ2 How can machine learning be used to improve the adaptation process continuously?
+  Tackles challenge two Systems adapt, but they do not learn
+* RQ3 How to guarantee the quality of the adaptation performed by such a machine learning process, and how can such guarantees, in turn, help the machine learning process?
+  Tackles Challenge three Quality assurances to learning
+* RQ4 How can the approach be generalized to other class of software systems?
+  Self Explanatory
+
+### 1.4 Self-adaptation to Self-learning : Solution Overview
+
+"Given a task T of solving an architectural problem, given the architecture A of the IoT system, and a set of quality attributes Q that models the QoS of the system, the architecture A of the system improves with Data D, such that the QoS Q of the system is not compromised"
+
+Reading the section would be a good idea.
+
 Continue from page no
