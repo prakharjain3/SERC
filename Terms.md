@@ -1,9 +1,10 @@
 # Chapter 1
+
 * `Actuators` - It is a component of a machine that is responsible for moving and controlling a mechanism or system
 * `Fog`
 * `EDA (Event-driven Architectures)`
 * `MSA (Micros-ervices Architecture)`
-* `QoS (Quality of Service)`    
+* `QoS (Quality of Service)`
 * `Proactive` - (of a person or action) creating or controlling a situation rather than just responding to it after it has happened.
 * `rule-based algorithms`
   Rule-based classifiers are just another type of classifier which makes the class decision depending by using various “if..else” rules. These rules are easily interpretable and thus these classifiers are generally used to generate descriptive models. The condition used with “if” is called the antecedent and the predicted class of each rule is called the consequent.

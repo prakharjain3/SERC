@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hence, in this thesis, we scope our research area within the context of IoT systems and see how the results can be generalized to other modern software systems.
+In this thesis, we scope our research area within the context of IoT systems and see how the results can be generalized to other modern software systems.
 
 ### 1.1 Architecting IoT Systems: The Challenges
 
@@ -44,4 +44,15 @@ Learning is a process of acquiring knowledge or skill through experience.
 
 Reading the section would be a good idea.
 
-Continue from page no
+### 1.5 Research Activities
+
+* First Stage - This process involved gathering different works related to self-adaptation.
+* Second Stage - Based on the works analyzed in Stage 1 a conceptual approach was formulated to achieve the research objectives.
+* Third Stage - Focused on the proactive approach to architect self-adaptive IoT systems using machine learning techniques which mainly leveraged the QoS data (in particular energy consumption data).
+* Fourth Stage - Research activities were focused on combining the proactive forecasts to automated decision making (leveraged mainly two types of QoS data namely data traffic and energy consumption data).
+* Fifth Stage - Research activities were focused on the quality assurance (leveraged three different types of QoS data namely data traffic, energy consumption data and context data)
+* Sixth and the final stage - mainly focused on the generalization of the approach to other general class of software systems.
+
+### 1.6 Thesis Structure
+
+### 1.7 Research Contributions
